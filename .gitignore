@@ -1,0 +1,18 @@
+tmp/
+output/
+temp/
+.tmp/
+
+# Public artifacts are Markdown-only.
+*.doc
+*.docx
+*.odt
+*.pdf
+*.ppt
+*.pptx
+*.odp
+*.xls
+*.xlsx
+*.ods
+~$*
+
